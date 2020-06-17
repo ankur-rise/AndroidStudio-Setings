@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Control Flow/Split 'if'" />
+    <ignoreAction name="Java/Other/Put arguments on separate lines" />
+    <ignoreAction name="Java/Other/Put parameters on separate lines" />
+    <ignoreAction name="Java/Strings/Break string on '\n'" />
+  </component>
+</application>
