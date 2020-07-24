@@ -22,9 +22,13 @@
           <option name="url" value="https://github.com/ankur-rise/kotlin_Dagger_CleanArch_MyTaxi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.airtel.africa/bitbucket/scm/poc/airtel-camera.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Android_Extra_projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Airtel_Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
