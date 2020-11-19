@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.africa.airtel.coremodule.data.model.DetailListItemModel" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="LINE_SPACING" value="1.3" />
